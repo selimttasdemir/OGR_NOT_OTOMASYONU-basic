@@ -4,6 +4,8 @@ personal student grading system for teachers (simple)
 
 sql code:
 
+```
+
 create database DBnotKayitSistemi
 use DBnotKayitSistemi
 create table tblDers
@@ -18,3 +20,4 @@ OGRS3 tinyint,
 ORTALAMA decimal(18,2),
 DURUM bit
 )
+```
